@@ -63,15 +63,15 @@ To enhance the e-commerce ecosystem in Algeria by providing innovative solutions
 ## 🤝 **Join Us**
 We're expanding our team! If you are passionate about e-commerce technology and want to contribute to our mission, please reach out to us.
 
-- **GitHub**: [YourGitHubProfile](https://github.com/YourGitHubProfile/)
-- **Email**: your-email@example.com 
+- **GitHub**: [YourGitHubProfile](https://github.com/RAYANaouf/)
+- **Email**: rayanaouf1512@example.com 
 - **Website**: coming soon.
 
 
 ---
 
 ## 📞 **Contact Us**
-- **Email**: your-email@example.com 
+- **Email**: rayanaouf1512@example.com 
 - **Phone**: 0795502905
 - **Social Media**: coming soon.
 
