@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="path-or-url-to-your-styled-logo.png" alt="Styled Logo" width="150"/>
+</p>
+
+
 # **Jethings - E-commerce** 🛒🌐
 
 ## **Empowering E-commerce in Algeria** 📦🚀
