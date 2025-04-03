@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="path-or-url-to-your-styled-logo.png" alt="Styled Logo" width="150"/>
+  <img src="https://github.com/user-attachments/assets/da5b3068-669f-4ec0-b38c-3ea2de6e6b01" alt="Styled Logo" width="450"/>
 </p>
 
 
